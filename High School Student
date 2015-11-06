@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html xml:lang="en" lang="en">
+	<head>
+		<meta charset="utf-8" />
+		<title>Highschool Persona</title>
+		<link rel="stylesheet" href="css/styles.css" media="screen" />
+	</head>
+	<body>
+		<div id="nav">
+			<ul>
+				<li><a href="persona.html">Highschool Student</a></li>
+				<li><a href="persona.html">Mature Student</a></li>
+				<li><a href="persona.html">Parents and Gaurdians</a></li>
+				<li><a href="persona.html">Foreign Exchange</a></li>
+				<li><a href="persona.html">Alumni</a></li>
+			</ul>
+		</div>
+		<h1>Highschool Student </h1>
+		<img src="the-very-best-of-the-college-freshman-meme-u1.png" alt="high school kid" />
+		<p><q>One day I will make it to the NBA</q> Joe Shmoe</p>
+		<h3>Name</h3>
+		<p>Joe Shmoe</p>
+		<h3>Age</h3>
+		<p>16</p>
+		<h3>Gender</h3>
+		<p>Male</p>
+		<h3>Relationship Status</h3>
+		<p>Single</p>
+		<h3>Career</h3>
+		<p>Student</p>
+		
+		<p>
+		<h3>Personal Interests</h3>
+		<ul>
+			<li>Hanging out with friends</li>
+			<li>Snowboarding</li>
+			<li>Basketball</li>
+		</ul>
+		<h3>Day to Day Life</h3><p>On an average day Joe wakes up at around 7:00 AM to go to school. During his spare periods at school he searches up colleges that his is interested in attending that have competetive basketball teams so that he can show off his athletic capabilities. After school Joe has basketball practic with his high school team.</p>
+		<p>One day Joe hopes to play in the NBA for the Toronto Raptors.</p>
+	</body>
+</html>
